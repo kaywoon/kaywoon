@@ -6,7 +6,7 @@ I'm a Year 2 Information Systems student at NUS, minoring in Data Analytics and 
 
 # 🚀 Projects:
 [![Workforce Management Platform (PSA Code Sprint)](https://img.shields.io/badge/GitHub-Workforce%20Management%20Platform%20%5BPSA%20Code%20Sprint%5D-blue?style=flat&logo=github)](https://github.com/Owly-dabs/PSA-Mavericks)
-[![Hotel Reservation Management System (IS2103)](https://img.shields.io/badge/GitHub-Hotel%20Reservation%Management%20%5BIS2103%5D-red?style=flat&logo=github)](https://github.com/Xenonwizard/IS2103Project)
+[![Hotel Reservation Management System (IS2103)](https://img.shields.io/badge/GitHub-Hotel%20Reservation%20Management%20%5BIS2103%5D-red?style=flat&logo=github)](https://github.com/Xenonwizard/IS2103Project)
 [![BobaBuddy (HacknRoll)](https://img.shields.io/badge/GitHub-BobaBuddy%20%5BHacknRoll%5D-beige?style=flat&logo=github)](https://github.com/Soneul/BobaBuddy)
 
 # 💻 Tech Stack:
